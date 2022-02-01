@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/dave/brenda.svg?branch=master)](https://travis-ci.org/dave/brenda) [![Go Report Card](https://goreportcard.com/badge/github.com/dave/brenda)](https://goreportcard.com/report/github.com/dave/brenda) [![codecov](https://codecov.io/gh/dave/brenda/branch/master/graph/badge.svg)](https://codecov.io/gh/dave/brenda)
+[![Build Status](https://travis-ci.org/krishnamiriyala/brenda.svg?branch=master)](https://travis-ci.org/krishnamiriyala/brenda) [![Go Report Card](https://goreportcard.com/badge/github.com/krishnamiriyala/brenda)](https://goreportcard.com/report/github.com/krishnamiriyala/brenda) [![codecov](https://codecov.io/gh/krishnamiriyala/brenda/branch/master/graph/badge.svg)](https://codecov.io/gh/krishnamiriyala/brenda)
 
 # Brenda
 

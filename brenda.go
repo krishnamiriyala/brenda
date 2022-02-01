@@ -1,8 +1,8 @@
 // Package brenda is a boolean expression solver for Go AST
 package brenda
 
-//go:generate go get github.com/dave/rebecca/cmd/becca
-//go:generate becca -package=github.com/dave/brenda
+//go:generate go get github.com/krishnamiriyala/rebecca/cmd/becca
+//go:generate becca -package=github.com/krishnamiriyala/brenda
 
 import (
 	"bytes"
@@ -12,7 +12,7 @@ import (
 	"go/token"
 	"go/types"
 
-	"github.com/dave/astrid"
+	"github.com/krishnamiriyala/astrid"
 	"github.com/pkg/errors"
 )
 

@@ -3,10 +3,10 @@ go:
     - 1.x
 notificaitons:
   email:
-    recipients: dave@brophy.uk
+    recipients: krishnamiriyala@brophy.uk
     on_failure: always
 install:
-  - go get -u github.com/dave/courtney
+  - go get -u github.com/krishnamiriyala/courtney
   - go get -t -v ./...
 script:
   - courtney ./...
